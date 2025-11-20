@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #222;
+}
+.hero {
+    padding: 80px 20px;
+    text-align: center;
+    background: linear-gradient(135deg,#0cbaba,#380036);
+    color: #fff;
+}
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #ffffff;
+    color: #000;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.features {
+    padding: 60px 20px;
+    text-align: center;
+}
+.grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.card {
+    background: #f2f2f2;
+    padding: 20px;
+    border-radius: 12px;
+    width: 250px;
+}
+.contact {
+    padding: 60px 20px;
+    text-align: center;
+}
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #eee;
+}
